@@ -88,4 +88,3 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 🎉Congratulations! You have created and resolved your first ticket!🎉
-  
