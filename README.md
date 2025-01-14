@@ -66,7 +66,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 
 <p align="center">
-<img src="https://i.imgur.com/o3he4B6.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/rkX20aB.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/2XEBIkS.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/rkX20aB.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 <h3>Stage 3: Working the Issue</h3>
@@ -83,7 +83,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 - The ticket should now be on the "closed" tab since it has been resolved.
 
 <p align="center">
-<img src="https://i.imgur.com/nWZIKgW.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/3fCGOqH.png" height="80%" width="80%" alt="Azure Free Services"/>
+<img src="https://i.imgur.com/nWZIKgW.png" height="80%" width="80%" alt="Azure Free Account"/> <img src="https://i.imgur.com/WAtEtbY.png" height="80%" width="80%" alt="Azure Free Services"/>
 </p>
 
 
