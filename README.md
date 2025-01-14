@@ -50,7 +50,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   
   
 <p align="center">
-<img src="https://i.imgur.com/nSFHPrI.png" height="80%" width="80%" alt="Azure Free Account"/> 
+<img src="https://i.imgur.com/Yr4s5XR.png" height="80%" width="80%" alt="Azure Free Account"/> 
 </p>
 
 
